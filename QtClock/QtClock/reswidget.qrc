@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>iconFail.png</file>
+        <file>iconOk.png</file>
+    </qresource>
+    <qresource prefix="/xml">
+        <file>clock.xml</file>
+    </qresource>
+</RCC>
